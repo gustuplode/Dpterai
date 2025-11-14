@@ -1,0 +1,5 @@
+{
+  "name": "Virtual Model Image Editor",
+  "description": "An application that allows users to edit images using text prompts with the Gemini 2.5 Flash Image model. Users can apply changes like adding filters, changing features, or modifying backgrounds.",
+  "requestFramePermissions": []
+}
